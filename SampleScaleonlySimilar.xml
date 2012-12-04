@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<team_input num_groups="4" minority_id="16">
+
+<question id="5" type="SCALE" title="Hours per week"><weight value="-5"/></question>
+<question id="6" type="SCALE" title="Fraternity/Sorority"><weight value="-5"/></question>
+
+
+<student username="1@uwb.edu"><response q_id="5" type="SCALE"><value id="5"/></response><response q_id="6" type="SCALE"><value id="10"/></response></student>
+<student username="2@uwb.edu"><response q_id="5" type="SCALE"><value id="5"/></response><response q_id="6" type="SCALE"><value id="10"/></response></student>
+
+
+<student username="3@uwb.edu"><response q_id="5" type="SCALE"><value id="5"/></response><response q_id="6" type="SCALE"><value id="10"/></response></student>
+
+
+<student username="4@uwb.edu"><response q_id="5" type="SCALE"><value id="5"/></response><response q_id="6" type="SCALE"><value id="10"/></response></student>
+
+
+<student username="5@uwb.edu"><response q_id="5" type="SCALE"><value id="5"/></response><response q_id="6" type="SCALE"><value id="10"/></response></student>
+
+
+<student username="6@uwb.edu"><response q_id="5" type="SCALE"><value id="25"/></response><response q_id="6" type="SCALE"><value id="20"/></response></student>
+
+
+<student username="7@uwb.edu"><response q_id="5" type="SCALE"><value id="25"/></response><response q_id="6" type="SCALE"><value id="20"/></response></student>
+
+
+<student username="8@uwb.edu"><response q_id="5" type="SCALE"><value id="25"/></response><response q_id="6" type="SCALE"><value id="20"/></response></student>
+
+
+<student username="9@uwb.edu"><response q_id="5" type="SCALE"><value id="25"/></response><response q_id="6" type="SCALE"><value id="20"/></response></student>
+
+
+<student username="10@uwb.edu"><response q_id="5" type="SCALE"><value id="25"/></response><response q_id="6" type="SCALE"><value id="20"/></response></student>
+
+
+<student username="11@uwb.edu"><response q_id="5" type="SCALE"><value id="50"/></response><response q_id="6" type="SCALE"><value id="30"/></response></student>
+
+
+<student username="12@uwb.edu"><response q_id="5" type="SCALE"><value id="50"/></response><response q_id="6" type="SCALE"><value id="30"/></response></student>
+
+
+<student username="13@uwb.edu"><response q_id="5" type="SCALE"><value id="50"/></response><response q_id="6" type="SCALE"><value id="30"/></response></student>
+
+
+<student username="14@uwb.edu"><response q_id="5" type="SCALE"><value id="50"/></response><response q_id="6" type="SCALE"><value id="30"/></response></student>
+
+
+<student username="15@uwb.edu"><response q_id="5" type="SCALE"><value id="50"/></response><response q_id="6" type="SCALE"><value id="30"/></response></student>
+
+
+<student username="16@uwb.edu"><response q_id="5" type="SCALE"><value id="90"/></response><response q_id="6" type="SCALE"><value id="40"/></response></student>
+
+
+<student username="17@uwb.edu"><response q_id="5" type="SCALE"><value id="90"/></response><response q_id="6" type="SCALE"><value id="40"/></response></student>
+
+<student username="18@uwb.edu"><response q_id="5" type="SCALE"><value id="90"/></response><response q_id="6" type="SCALE"><value id="40"/></response></student>
+
+<student username="19@uwb.edu"><response q_id="5" type="SCALE"><value id="90"/></response><response q_id="6" type="SCALE"><value id="40"/></response></student>
+<student username="20@uwb.edu"><response q_id="5" type="SCALE"><value id="90"/></response><response q_id="6" type="SCALE"><value id="40"/></response></student>
+
+
+
+
+</team_input>

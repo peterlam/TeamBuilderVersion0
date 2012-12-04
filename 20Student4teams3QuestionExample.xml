@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<team_input num_groups="4" minority_id="16">
+<question id="1" type="MC" title="MC Question 1"><weight value="-5"/></question>
+
+
+<question id="2" type="MC" title="MC Question 2"><weight value="-5"/></question>
+
+
+<question id="3" type="MC" title="MC Question 3"><weight value="-5"/></question>
+
+
+<student username="1@uwb.edu">
+<response q_id="1" type="MC"><value id="100"/></response>
+<response q_id="2" type="MC"><value id="100"/></response>
+<response q_id="3" type="MC"><value id="100"/></response>
+</student>
+<student username="2@uwb.edu">
+<response q_id="1" type="MC"><value id="100"/></response>
+<response q_id="2" type="MC"><value id="100"/></response>
+<response q_id="3" type="MC"><value id="100"/></response>
+</student>
+<student username="3@uwb.edu">
+<response q_id="1" type="MC"><value id="100"/></response>
+<response q_id="2" type="MC"><value id="100"/></response>
+<response q_id="3" type="MC"><value id="100"/></response>
+</student>
+<student username="4@uwb.edu">
+<response q_id="1" type="MC"><value id="100"/></response>
+<response q_id="2" type="MC"><value id="100"/></response>
+<response q_id="3" type="MC"><value id="100"/></response>
+</student>
+<student username="5@uwb.edu">
+<response q_id="1" type="MC"><value id="100"/></response>
+<response q_id="2" type="MC"><value id="100"/></response>
+<response q_id="3" type="MC"><value id="100"/></response>
+</student>
+<student username="6@uwb.edu">
+<response q_id="1" type="MC"><value id="100"/></response>
+<response q_id="2" type="MC"><value id="100"/></response>
+<response q_id="3" type="MC"><value id="100"/></response>
+</student>
+<student username="7@uwb.edu">
+<response q_id="1" type="MC"><value id="100"/></response>
+<response q_id="2" type="MC"><value id="100"/></response>
+<response q_id="3" type="MC"><value id="100"/></response>
+</student>
+<student username="8@uwb.edu">
+<response q_id="1" type="MC"><value id="100"/></response>
+<response q_id="2" type="MC"><value id="100"/></response>
+<response q_id="3" type="MC"><value id="100"/></response>
+</student>
+<student username="9@uwb.edu">
+<response q_id="1" type="MC"><value id="100"/></response>
+<response q_id="2" type="MC"><value id="100"/></response>
+<response q_id="3" type="MC"><value id="100"/></response>
+</student>
+<student username="10@uwb.edu">
+<response q_id="1" type="MC"><value id="100"/></response>
+<response q_id="2" type="MC"><value id="100"/></response>
+<response q_id="3" type="MC"><value id="100"/></response>
+</student>
+<student username="1@uwb.edu">
+<response q_id="1" type="MC"><value id="200"/></response>
+<response q_id="2" type="MC"><value id="200"/></response>
+<response q_id="3" type="MC"><value id="200"/></response>
+</student>
+<student username="2@uwb.edu">
+<response q_id="1" type="MC"><value id="200"/></response>
+<response q_id="2" type="MC"><value id="200"/></response>
+<response q_id="3" type="MC"><value id="200"/></response>
+</student>
+<student username="3@uwb.edu">
+<response q_id="1" type="MC"><value id="200"/></response>
+<response q_id="2" type="MC"><value id="200"/></response>
+<response q_id="3" type="MC"><value id="200"/></response>
+</student>
+<student username="4@uwb.edu">
+<response q_id="1" type="MC"><value id="200"/></response>
+<response q_id="2" type="MC"><value id="200"/></response>
+<response q_id="3" type="MC"><value id="200"/></response>
+</student>
+<student username="5@uwb.edu">
+<response q_id="1" type="MC"><value id="200"/></response>
+<response q_id="2" type="MC"><value id="200"/></response>
+<response q_id="3" type="MC"><value id="200"/></response>
+</student>
+<student username="6@uwb.edu">
+<response q_id="1" type="MC"><value id="200"/></response>
+<response q_id="2" type="MC"><value id="200"/></response>
+<response q_id="3" type="MC"><value id="200"/></response>
+</student>
+<student username="7@uwb.edu">
+<response q_id="1" type="MC"><value id="200"/></response>
+<response q_id="2" type="MC"><value id="200"/></response>
+<response q_id="3" type="MC"><value id="200"/></response>
+</student>
+<student username="8@uwb.edu">
+<response q_id="1" type="MC"><value id="200"/></response>
+<response q_id="2" type="MC"><value id="200"/></response>
+<response q_id="3" type="MC"><value id="200"/></response>
+</student>
+<student username="9@uwb.edu">
+<response q_id="1" type="MC"><value id="200"/></response>
+<response q_id="2" type="MC"><value id="200"/></response>
+<response q_id="3" type="MC"><value id="200"/></response>
+</student>
+<student username="10@uwb.edu">
+<response q_id="1" type="MC"><value id="200"/></response>
+<response q_id="2" type="MC"><value id="200"/></response>
+<response q_id="3" type="MC"><value id="200"/></response>
+</student>
+</team_input>

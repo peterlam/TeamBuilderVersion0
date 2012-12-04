@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<team_input num_groups="4">
+<question id="5" type="CAO" title="Check the programming language you are familiar with"><weight value="-5"/></question>
+<question id="6" type="MC" title="Current GPA"><weight value="5"/></question>
+<student username="00000001">
+<response q_id="5" type="CAO">
+<value id="35" answer="1"/>
+<value id="36" answer="0"/>
+<value id="37" answer="0"/>
+<value id="38" answer="0"/>
+</response>
+<response q_id="6" type="MC"><value id="10"/></response>
+</student>
+<student username="00000002">
+<response q_id="5" type="CAO">
+<value id="35" answer="1"/>
+<value id="36" answer="0"/>
+<value id="37" answer="0"/>
+<value id="38" answer="0"/>
+</response>
+<response q_id="6" type="MC"><value id="20"/></response>
+</student>
+<student username="00000003">
+<response q_id="5" type="CAO">
+<value id="35" answer="1"/>
+<value id="36" answer="0"/>
+<value id="37" answer="0"/>
+<value id="38" answer="0"/>
+</response>
+<response q_id="6" type="MC"><value id="30"/></response>
+</student>
+<student username="00000004">
+<response q_id="5" type="CAO">
+<value id="35" answer="0"/>
+<value id="36" answer="1"/>
+<value id="37" answer="0"/>
+<value id="38" answer="0"/>
+</response>
+<response q_id="6" type="MC"><value id="10"/></response>
+</student>
+<student username="00000005">
+<response q_id="5" type="CAO">
+<value id="35" answer="0"/>
+<value id="36" answer="1"/>
+<value id="37" answer="0"/>
+<value id="38" answer="0"/>
+</response>
+<response q_id="6" type="MC"><value id="20"/></response>
+</student>
+<student username="00000006">
+<response q_id="5" type="CAO">
+<value id="35" answer="0"/>
+<value id="36" answer="1"/>
+<value id="37" answer="0"/>
+<value id="38" answer="0"/>
+</response>
+<response q_id="6" type="MC"><value id="30"/></response>
+</student>
+<student username="00000007">
+<response q_id="5" type="CAO">
+<value id="35" answer="0"/>
+<value id="36" answer="0"/>
+<value id="37" answer="1"/>
+<value id="38" answer="0"/>
+</response>
+<response q_id="6" type="MC"><value id="10"/></response>
+</student>
+<student username="00000008">
+<response q_id="5" type="CAO">
+<value id="35" answer="0"/>
+<value id="36" answer="0"/>
+<value id="37" answer="1"/>
+<value id="38" answer="0"/>
+</response>
+<response q_id="6" type="MC"><value id="20"/></response>
+</student>
+<student username="00000009">
+<response q_id="5" type="CAO">
+<value id="35" answer="0"/>
+<value id="36" answer="0"/>
+<value id="37" answer="1"/>
+<value id="38" answer="0"/>
+</response>
+<response q_id="6" type="MC"><value id="30"/></response>
+</student>
+<student username="00000010">
+<response q_id="5" type="CAO">
+<value id="35" answer="0"/>
+<value id="36" answer="0"/>
+<value id="37" answer="0"/>
+<value id="38" answer="1"/>
+</response>
+<response q_id="6" type="MC"><value id="10"/></response>
+</student>
+<student username="00000011">
+<response q_id="5" type="CAO">
+<value id="35" answer="0"/>
+<value id="36" answer="0"/>
+<value id="37" answer="0"/>
+<value id="38" answer="1"/>
+</response>
+<response q_id="6" type="MC"><value id="20"/></response>
+</student>
+<student username="00000012">
+<response q_id="5" type="CAO">
+<value id="35" answer="0"/>
+<value id="36" answer="0"/>
+<value id="37" answer="0"/>
+<value id="38" answer="1"/>
+</response>
+<response q_id="6" type="MC"><value id="30"/></response>
+</student>
+</team_input>

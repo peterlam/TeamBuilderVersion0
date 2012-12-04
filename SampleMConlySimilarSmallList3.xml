@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<team_input num_groups="4" minority_id="16">
+
+<question id="17" type="MC" title="Hours per week"><weight value="-5"/></question>
+<question id="20" type="MC" title="Fraternity/Sorority"><weight value="-5"/></question>
+
+
+<student username="1@uwb.edu"><response q_id="17" type="MC"><value id="10"/></response><response q_id="20" type="MC"><value id="100"/></response></student>
+<student username="2@uwb.edu"><response q_id="17" type="MC"><value id="10"/></response><response q_id="20" type="MC"><value id="100"/></response></student>
+<student username="3@uwb.edu"><response q_id="17" type="MC"><value id="20"/></response><response q_id="20" type="MC"><value id="200"/></response></student>
+<student username="4@uwb.edu"><response q_id="17" type="MC"><value id="10"/></response><response q_id="20" type="MC"><value id="100"/></response></student>
+
+
+<student username="5@uwb.edu"><response q_id="17" type="MC"><value id="10"/></response><response q_id="20" type="MC"><value id="100"/></response></student>
+
+
+
+<student username="6@uwb.edu"><response q_id="17" type="MC"><value id="10"/></response><response q_id="20" type="MC"><value id="100"/></response></student>
+
+
+<student username="7@uwb.edu"><response q_id="17" type="MC"><value id="20"/></response><response q_id="20" type="MC"><value id="200"/></response></student>
+
+
+
+<student username="8@uwb.edu"><response q_id="17" type="MC"><value id="10"/></response><response q_id="20" type="MC"><value id="100"/></response></student>
+
+
+
+</team_input>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/School/css596/xml/Sample/../Sample.xsdl" uri="xml-resources/jaxb/Sample/Sample.xsdl.xsd"/>
+    <system systemId="file:/C:/School/css596/FinalProject/TeamBuilder/Sample" uri="xml-resources/jaxb/TeamBuilder/Sample.xsd"/>
+    <system systemId="file:/C:/School/css596/FinalProject/TeamBuilder/TeamBuilder.xsd" uri="xml-resources/jaxb/TeamBuilder/TeamBuilder.xsd"/>
+    <system systemId="file:/C:/School/css596/FinalProject/TeamBuilder/../../TeamBuilderSchema.xsd" uri="xml-resources/jaxb/TeamBuilder/TeamBuilderSchema.xsd"/>
+</catalog>

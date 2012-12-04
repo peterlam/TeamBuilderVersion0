@@ -1,0 +1,413 @@
+<?xml version="1.0"?>
+<team_input num_groups="4" minority_id="16">
+
+
+<question title="Sports" type="CAO" id="18">
+<weight value="-5"/>
+</question>
+<question title="Underrepresented minority in engineering" type="CAO" id="16">
+<weight value="-5"/>
+</question>
+
+<student username="1@uwb.edu">
+<response type="CAO" q_id="18">
+<value id="89" answer="0"/>
+<value id="90" answer="0"/>
+<value id="91" answer="0"/>
+<value id="92" answer="0"/>
+<value id="93" answer="0"/>
+<value id="94" answer="1"/>
+<value id="95" answer="0"/>
+<value id="96" answer="1"/>
+<value id="97" answer="0"/>
+<value id="98" answer="0"/>
+<value id="99" answer="1"/>
+<value id="100" answer="0"/>
+<value id="101" answer="0"/>
+</response>
+<response type="CAO" q_id="16">
+<value id="79" answer="0"/>
+<value id="80" answer="0"/>
+<value id="81" answer="0"/>
+<value id="82" answer="0"/>
+<value id="83" answer="1"/>
+</response>
+</student>
+
+<student username="2@uwb.edu">
+<response type="CAO" q_id="18">
+<value id="89" answer="0"/>
+<value id="90" answer="0"/>
+<value id="91" answer="0"/>
+<value id="92" answer="0"/>
+<value id="93" answer="0"/>
+<value id="94" answer="1"/>
+<value id="95" answer="0"/>
+<value id="96" answer="1"/>
+<value id="97" answer="0"/>
+<value id="98" answer="0"/>
+<value id="99" answer="1"/>
+<value id="100" answer="0"/>
+<value id="101" answer="0"/>
+</response>
+<response type="CAO" q_id="16">
+<value id="79" answer="0"/>
+<value id="80" answer="0"/>
+<value id="81" answer="0"/>
+<value id="82" answer="0"/>
+<value id="83" answer="1"/>
+</response>
+</student>
+
+
+<student username="3@uwb.edu">
+<response type="CAO" q_id="18">
+<value id="89" answer="0"/>
+<value id="90" answer="0"/>
+<value id="91" answer="0"/>
+<value id="92" answer="0"/>
+<value id="93" answer="0"/>
+<value id="94" answer="1"/>
+<value id="95" answer="0"/>
+<value id="96" answer="1"/>
+<value id="97" answer="0"/>
+<value id="98" answer="0"/>
+<value id="99" answer="1"/>
+<value id="100" answer="0"/>
+<value id="101" answer="0"/>
+</response>
+<response type="CAO" q_id="16">
+<value id="79" answer="0"/>
+<value id="80" answer="0"/>
+<value id="81" answer="0"/>
+<value id="82" answer="0"/>
+<value id="83" answer="1"/>
+</response>
+</student>
+
+<student username="4@uwb.edu">
+<response type="CAO" q_id="18">
+<value id="89" answer="0"/>
+<value id="90" answer="0"/>
+<value id="91" answer="0"/>
+<value id="92" answer="0"/>
+<value id="93" answer="0"/>
+<value id="94" answer="1"/>
+<value id="95" answer="0"/>
+<value id="96" answer="1"/>
+<value id="97" answer="0"/>
+<value id="98" answer="0"/>
+<value id="99" answer="1"/>
+<value id="100" answer="0"/>
+<value id="101" answer="0"/>
+</response>
+<response type="CAO" q_id="16">
+<value id="79" answer="0"/>
+<value id="80" answer="0"/>
+<value id="81" answer="0"/>
+<value id="82" answer="0"/>
+<value id="83" answer="1"/>
+</response>
+</student>
+
+<student username="5@uwb.edu">
+<response type="CAO" q_id="18">
+<value id="89" answer="1"/>
+<value id="90" answer="1"/>
+<value id="91" answer="1"/>
+<value id="92" answer="0"/>
+<value id="93" answer="0"/>
+<value id="94" answer="0"/>
+<value id="95" answer="0"/>
+<value id="96" answer="0"/>
+<value id="97" answer="0"/>
+<value id="98" answer="0"/>
+<value id="99" answer="0"/>
+<value id="100" answer="0"/>
+<value id="101" answer="0"/>
+</response>
+<response type="CAO" q_id="16">
+<value id="79" answer="1"/>
+<value id="80" answer="0"/>
+<value id="81" answer="0"/>
+<value id="82" answer="0"/>
+<value id="83" answer="0"/>
+</response>
+</student>
+
+<student username="6@uwb.edu">
+<response type="CAO" q_id="18">
+<value id="89" answer="1"/>
+<value id="90" answer="1"/>
+<value id="91" answer="1"/>
+<value id="92" answer="0"/>
+<value id="93" answer="0"/>
+<value id="94" answer="0"/>
+<value id="95" answer="0"/>
+<value id="96" answer="0"/>
+<value id="97" answer="0"/>
+<value id="98" answer="0"/>
+<value id="99" answer="0"/>
+<value id="100" answer="0"/>
+<value id="101" answer="0"/>
+</response>
+<response type="CAO" q_id="16">
+<value id="79" answer="1"/>
+<value id="80" answer="0"/>
+<value id="81" answer="0"/>
+<value id="82" answer="0"/>
+<value id="83" answer="0"/>
+</response>
+</student>
+
+<student username="7@uwb.edu">
+<response type="CAO" q_id="18">
+<value id="89" answer="1"/>
+<value id="90" answer="1"/>
+<value id="91" answer="1"/>
+<value id="92" answer="0"/>
+<value id="93" answer="0"/>
+<value id="94" answer="0"/>
+<value id="95" answer="0"/>
+<value id="96" answer="0"/>
+<value id="97" answer="0"/>
+<value id="98" answer="0"/>
+<value id="99" answer="0"/>
+<value id="100" answer="0"/>
+<value id="101" answer="0"/>
+</response>
+<response type="CAO" q_id="16">
+<value id="79" answer="1"/>
+<value id="80" answer="0"/>
+<value id="81" answer="0"/>
+<value id="82" answer="0"/>
+<value id="83" answer="0"/>
+</response>
+</student>
+
+<student username="8@uwb.edu">
+<response type="CAO" q_id="18">
+<value id="89" answer="1"/>
+<value id="90" answer="1"/>
+<value id="91" answer="1"/>
+<value id="92" answer="0"/>
+<value id="93" answer="0"/>
+<value id="94" answer="0"/>
+<value id="95" answer="0"/>
+<value id="96" answer="0"/>
+<value id="97" answer="0"/>
+<value id="98" answer="0"/>
+<value id="99" answer="0"/>
+<value id="100" answer="0"/>
+<value id="101" answer="0"/>
+</response>
+<response type="CAO" q_id="16">
+<value id="79" answer="1"/>
+<value id="80" answer="0"/>
+<value id="81" answer="0"/>
+<value id="82" answer="0"/>
+<value id="83" answer="0"/>
+</response>
+</student>
+
+<student username="9@uwb.edu">
+<response type="CAO" q_id="18">
+<value id="89" answer="0"/>
+<value id="90" answer="0"/>
+<value id="91" answer="1"/>
+<value id="92" answer="1"/>
+<value id="93" answer="1"/>
+<value id="94" answer="0"/>
+<value id="95" answer="0"/>
+<value id="96" answer="0"/>
+<value id="97" answer="0"/>
+<value id="98" answer="0"/>
+<value id="99" answer="0"/>
+<value id="100" answer="0"/>
+<value id="101" answer="0"/>
+</response>
+<response type="CAO" q_id="16">
+<value id="79" answer="0"/>
+<value id="80" answer="0"/>
+<value id="81" answer="0"/>
+<value id="82" answer="0"/>
+<value id="83" answer="0"/>
+</response>
+</student>
+
+<student username="10@uwb.edu">
+<response type="CAO" q_id="18">
+<value id="89" answer="0"/>
+<value id="90" answer="0"/>
+<value id="91" answer="1"/>
+<value id="92" answer="1"/>
+<value id="93" answer="1"/>
+<value id="94" answer="0"/>
+<value id="95" answer="0"/>
+<value id="96" answer="0"/>
+<value id="97" answer="0"/>
+<value id="98" answer="0"/>
+<value id="99" answer="0"/>
+<value id="100" answer="0"/>
+<value id="101" answer="0"/>
+</response>
+<response type="CAO" q_id="16">
+<value id="79" answer="0"/>
+<value id="80" answer="0"/>
+<value id="81" answer="0"/>
+<value id="82" answer="0"/>
+<value id="83" answer="0"/>
+</response>
+</student>
+
+<student username="11@uwb.edu">
+<response type="CAO" q_id="18">
+<value id="89" answer="0"/>
+<value id="90" answer="0"/>
+<value id="91" answer="1"/>
+<value id="92" answer="1"/>
+<value id="93" answer="1"/>
+<value id="94" answer="0"/>
+<value id="95" answer="0"/>
+<value id="96" answer="0"/>
+<value id="97" answer="0"/>
+<value id="98" answer="0"/>
+<value id="99" answer="0"/>
+<value id="100" answer="0"/>
+<value id="101" answer="0"/>
+</response>
+<response type="CAO" q_id="16">
+<value id="79" answer="0"/>
+<value id="80" answer="0"/>
+<value id="81" answer="0"/>
+<value id="82" answer="0"/>
+<value id="83" answer="0"/>
+</response>
+</student>
+
+<student username="12@uwb.edu">
+<response type="CAO" q_id="18">
+<value id="89" answer="0"/>
+<value id="90" answer="0"/>
+<value id="91" answer="1"/>
+<value id="92" answer="1"/>
+<value id="93" answer="1"/>
+<value id="94" answer="0"/>
+<value id="95" answer="0"/>
+<value id="96" answer="0"/>
+<value id="97" answer="0"/>
+<value id="98" answer="0"/>
+<value id="99" answer="0"/>
+<value id="100" answer="0"/>
+<value id="101" answer="0"/>
+</response>
+<response type="CAO" q_id="16">
+<value id="79" answer="0"/>
+<value id="80" answer="0"/>
+<value id="81" answer="0"/>
+<value id="82" answer="0"/>
+<value id="83" answer="0"/>
+</response>
+</student>
+
+<student username="13@uwb.edu">
+<response type="CAO" q_id="18">
+<value id="89" answer="1"/>
+<value id="90" answer="0"/>
+<value id="91" answer="0"/>
+<value id="92" answer="0"/>
+<value id="93" answer="0"/>
+<value id="94" answer="0"/>
+<value id="95" answer="1"/>
+<value id="96" answer="0"/>
+<value id="97" answer="0"/>
+<value id="98" answer="1"/>
+<value id="99" answer="0"/>
+<value id="100" answer="0"/>
+<value id="101" answer="0"/>
+</response>
+<response type="CAO" q_id="16">
+<value id="79" answer="0"/>
+<value id="80" answer="0"/>
+<value id="81" answer="1"/>
+<value id="82" answer="0"/>
+<value id="83" answer="0"/>
+</response>
+</student>
+
+<student username="14@uwb.edu">
+<response type="CAO" q_id="18">
+<value id="89" answer="1"/>
+<value id="90" answer="0"/>
+<value id="91" answer="0"/>
+<value id="92" answer="0"/>
+<value id="93" answer="0"/>
+<value id="94" answer="0"/>
+<value id="95" answer="1"/>
+<value id="96" answer="0"/>
+<value id="97" answer="0"/>
+<value id="98" answer="1"/>
+<value id="99" answer="0"/>
+<value id="100" answer="0"/>
+<value id="101" answer="0"/>
+</response>
+<response type="CAO" q_id="16">
+<value id="79" answer="0"/>
+<value id="80" answer="0"/>
+<value id="81" answer="1"/>
+<value id="82" answer="0"/>
+<value id="83" answer="0"/>
+</response>
+</student>
+
+<student username="15@uwb.edu">
+<response type="CAO" q_id="18">
+<value id="89" answer="1"/>
+<value id="90" answer="0"/>
+<value id="91" answer="0"/>
+<value id="92" answer="0"/>
+<value id="93" answer="0"/>
+<value id="94" answer="0"/>
+<value id="95" answer="1"/>
+<value id="96" answer="0"/>
+<value id="97" answer="0"/>
+<value id="98" answer="1"/>
+<value id="99" answer="0"/>
+<value id="100" answer="0"/>
+<value id="101" answer="0"/>
+</response>
+<response type="CAO" q_id="16">
+<value id="79" answer="0"/>
+<value id="80" answer="0"/>
+<value id="81" answer="1"/>
+<value id="82" answer="0"/>
+<value id="83" answer="0"/>
+</response>
+</student>
+
+<student username="16@uwb.edu">
+<response type="CAO" q_id="18">
+<value id="89" answer="1"/>
+<value id="90" answer="0"/>
+<value id="91" answer="0"/>
+<value id="92" answer="0"/>
+<value id="93" answer="0"/>
+<value id="94" answer="0"/>
+<value id="95" answer="1"/>
+<value id="96" answer="0"/>
+<value id="97" answer="0"/>
+<value id="98" answer="1"/>
+<value id="99" answer="0"/>
+<value id="100" answer="0"/>
+<value id="101" answer="0"/>
+</response>
+<response type="CAO" q_id="16">
+<value id="79" answer="0"/>
+<value id="80" answer="0"/>
+<value id="81" answer="1"/>
+<value id="82" answer="0"/>
+<value id="83" answer="0"/>
+</response>
+</student>
+
+</team_input>

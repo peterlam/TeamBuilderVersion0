@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<team_input num_groups="2" minority_id="16">
+
+<question id="1" type="CAO" title="Programming Language"><weight value="-5"/></question>
+<question id="2" type="MC" title="Current GPA"><weight value="5"/></question>
+<question id="3" type="SCALE" title="Coding Interest"><weight value="5"/></question>
+
+
+<student username="1@uwb.edu">
+<response type="CAO" q_id="1">
+<value id="20" answer="1"/>
+<value id="21" answer="1"/>
+<value id="22" answer="0"/>
+<value id="23" answer="0"/>
+</response>
+<response q_id="2" type="MC"><value id="10"/></response>
+<response q_id="3" type="SCALE"><value id="50"/></response>
+</student>
+</team_input> 

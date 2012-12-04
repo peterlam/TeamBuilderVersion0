@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<team_input num_groups="4" minority_id="16">
+
+<question id="1" type="CAO" title="Programming Language"><weight value="-5"/></question>
+<question id="2" type="MC" title="Current GPA"><weight value="5"/></question>
+<question id="3" type="SCALE" title="Coding Interest"><weight value="5"/></question>
+
+
+<student username="1@uwb.edu">
+<response type="CAO" q_id="1">
+<value id="20" answer="1"/>
+<value id="21" answer="1"/>
+<value id="22" answer="0"/>
+<value id="23" answer="0"/>
+</response>
+<response q_id="2" type="MC"><value id="10"/></response>
+<response q_id="3" type="SCALE"><value id="10"/></response>
+</student>
+<student username="2@uwb.edu">
+<response type="CAO" q_id="1">
+<value id="20" answer="1"/>
+<value id="21" answer="1"/>
+<value id="22" answer="0"/>
+<value id="23" answer="0"/>
+</response>
+<response q_id="2" type="MC"><value id="10"/></response>
+<response q_id="3" type="SCALE"><value id="10"/></response>
+</student>
+<student username="3@uwb.edu">
+<response type="CAO" q_id="1">
+<value id="20" answer="1"/>
+<value id="21" answer="1"/>
+<value id="22" answer="0"/>
+<value id="23" answer="0"/>
+</response>
+<response q_id="2" type="MC"><value id="10"/></response>
+<response q_id="3" type="SCALE"><value id="10"/></response>
+</student>
+<student username="4@uwb.edu">
+<response type="CAO" q_id="1">
+<value id="20" answer="0"/>
+<value id="21" answer="1"/>
+<value id="22" answer="1"/>
+<value id="23" answer="0"/>
+</response>
+<response q_id="2" type="MC"><value id="20"/></response>
+<response q_id="3" type="SCALE"><value id="20"/></response>
+</student>
+<student username="5@uwb.edu">
+<response type="CAO" q_id="1">
+<value id="20" answer="0"/>
+<value id="21" answer="1"/>
+<value id="22" answer="1"/>
+<value id="23" answer="0"/>
+</response>
+<response q_id="2" type="MC"><value id="20"/></response>
+<response q_id="3" type="SCALE"><value id="20"/></response>
+</student>
+<student username="6@uwb.edu">
+<response type="CAO" q_id="1">
+<value id="20" answer="0"/>
+<value id="21" answer="1"/>
+<value id="22" answer="1"/>
+<value id="23" answer="0"/>
+</response>
+<response q_id="2" type="MC"><value id="20"/></response>
+<response q_id="3" type="SCALE"><value id="20"/></response>
+</student>
+<student username="7@uwb.edu">
+<response type="CAO" q_id="1">
+<value id="20" answer="0"/>
+<value id="21" answer="1"/>
+<value id="22" answer="1"/>
+<value id="23" answer="0"/>
+</response>
+<response q_id="2" type="MC"><value id="30"/></response>
+<response q_id="3" type="SCALE"><value id="30"/></response>
+</student>
+<student username="8@uwb.edu">
+<response type="CAO" q_id="1">
+<value id="20" answer="0"/>
+<value id="21" answer="1"/>
+<value id="22" answer="1"/>
+<value id="23" answer="0"/>
+</response>
+<response q_id="2" type="MC"><value id="30"/></response>
+<response q_id="3" type="SCALE"><value id="30"/></response>
+</student>
+<student username="9@uwb.edu">
+<response type="CAO" q_id="1">
+<value id="20" answer="0"/>
+<value id="21" answer="1"/>
+<value id="22" answer="1"/>
+<value id="23" answer="0"/>
+</response>
+<response q_id="2" type="MC"><value id="30"/></response>
+<response q_id="3" type="SCALE"><value id="30"/></response>
+</student>
+<student username="10@uwb.edu">
+<response type="CAO" q_id="1">
+<value id="20" answer="0"/>
+<value id="21" answer="0"/>
+<value id="22" answer="1"/>
+<value id="23" answer="1"/>
+</response>
+<response q_id="2" type="MC"><value id="40"/></response>
+<response q_id="3" type="SCALE"><value id="40"/></response>
+</student>
+<student username="11@uwb.edu">
+<response type="CAO" q_id="1">
+<value id="20" answer="0"/>
+<value id="21" answer="0"/>
+<value id="22" answer="1"/>
+<value id="23" answer="1"/>
+</response>
+<response q_id="2" type="MC"><value id="40"/></response>
+<response q_id="3" type="SCALE"><value id="40"/></response>
+</student>
+<student username="12@uwb.edu">
+<response type="CAO" q_id="1">
+<value id="20" answer="0"/>
+<value id="21" answer="0"/>
+<value id="22" answer="1"/>
+<value id="23" answer="1"/>
+</response>
+<response q_id="2" type="MC"><value id="40"/></response>
+<response q_id="3" type="SCALE"><value id="40"/></response>
+</student>
+</team_input>

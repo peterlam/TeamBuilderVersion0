@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<team_input num_groups="3" minority_id="16">
+
+<question id="17" type="MC" title="Hours per week"><weight value="-5"/></question>
+<question id="20" type="MC" title="Fraternity/Sorority"><weight value="-5"/></question>
+
+
+<student username="ZAPFJR@uwb.edu"><response q_id="17" type="MC"><value id="84"/></response><response q_id="20" type="MC"><value id="100"/></response></student>
+<student username="WESTLURH@uwb.edu"><response q_id="17" type="MC"><value id="89"/></response><response q_id="20" type="MC"><value id="108"/></response></student>
+
+
+<student username="WESSELMD@uwb.edu"><response q_id="17" type="MC"><value id=""/></response><response q_id="20" type="MC"><value id=""/></response></student>
+
+
+<student username="WENNCA@uwb.edu"><response q_id="17" type="MC"><value id="84"/></response><response q_id="20" type="MC"><value id=""/></response></student>
+
+
+<student username="VENUGOG@uwb.edu"><response q_id="17" type="MC"><value id="84"/></response><response q_id="20" type="MC"><value id="100"/></response></student>
+
+
+<student username="THORPK@uwb.edu"><response q_id="17" type="MC"><value id="89"/></response><response q_id="20" type="MC"><value id="108"/></response></student>
+
+
+<student username="SPEARMA@uwb.edu"><response q_id="17" type="MC"><value id="84"/></response><response q_id="20" type="MC"><value id="100"/></response></student>
+
+
+<student username="SCHMITSD@uwb.edu"><response q_id="17" type="MC"><value id="84"/></response><response q_id="20" type="MC"><value id="100"/></response></student>
+
+
+<student username="RYANCA@uwb.edu"><response q_id="17" type="MC"><value id="84"/></response><response q_id="20" type="MC"><value id="100"/></response></student>
+
+
+<student username="PULLIATN@uwb.edu"><response q_id="17" type="MC"><value id=""/></response><response q_id="20" type="MC"><value id=""/></response></student>
+
+
+<student username="PONDERJD@uwb.edu"><response q_id="17" type="MC"><value id="86"/></response><response q_id="20" type="MC"><value id="100"/></response></student>
+
+
+<student username="Nicholas.J.Snyder@uwb.edu"><response q_id="17" type="MC"><value id="89"/></response><response q_id="20" type="MC"><value id="108"/></response></student>
+
+
+<student username="MILLERNP@uwb.edu"><response q_id="17" type="MC"><value id="89"/></response><response q_id="20" type="MC"><value id="108"/></response></student>
+
+
+<student username="MIKKELMR@uwb.edu"><response q_id="17" type="MC"><value id="86"/></response><response q_id="20" type="MC"><value id="104"/></response></student>
+
+
+<student username="MEEHLJD@uwb.edu"><response q_id="17" type="MC"><value id="89"/></response><response q_id="20" type="MC"><value id="108"/></response></student>
+
+
+<student username="Matthew.Smith@uwb.edu"><response q_id="17" type="MC"><value id="86"/></response><response q_id="20" type="MC"><value id="104"/></response></student>
+
+
+<student username="KLINEDM@uwb.edu"><response q_id="17" type="MC"><value id="86"/></response><response q_id="20" type="MC"><value id="104"/></response></student>
+
+<student username="PETERLAM@uwb.edu"><response q_id="17" type="MC"><value id="86"/></response><response q_id="20" type="MC"><value id="104"/></response></student>
+
+<student username="EDDIENG@uwb.edu"><response q_id="17" type="MC"><value id="86"/></response><response q_id="20" type="MC"><value id="104"/></response></student>
+<student username="ANTHONYHO@uwb.edu"><response q_id="17" type="MC"><value id="86"/></response><response q_id="20" type="MC"><value id="104"/></response></student>
+
+
+
+
+</team_input>
